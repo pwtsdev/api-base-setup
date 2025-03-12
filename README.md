@@ -17,7 +17,7 @@ Before you start, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/pwtsdev/api-base-setup.git
-   cd base-setup
+   cd api-base-setup
    ```
 
 2. Install dependencies:
